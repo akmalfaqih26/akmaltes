@@ -11,13 +11,10 @@ padding: 20px;
 background-color: white;
 border-radius: 15px;
 box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+text-align: center;
 }
 
 .kartu-profil img {
-    width: 150px;
+    width: 300px;
     border-radius: 50%;
-}
-
-.kartu-profil {
-    text-align: center;
 }
